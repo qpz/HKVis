@@ -1,0 +1,5 @@
+﻿  Moc'ing CameraControlMainWnd.h...
+  CameraControlMainWnd.cpp
+  moc_CameraControlMainWnd.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(147): fatal error C1189: #error :  "No Target Architecture" (CameraControlMainWnd.cpp)
